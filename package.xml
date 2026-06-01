@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>caddy_ai2_ros2_robot_description_publisher</name>
-  <version>0.0.1</version>
+  <version>1.0.0</version>
   <description>Publishes a robot description string (URDF, SDF, or any format) as a transient-local topic with a configurable topic name</description>
   <maintainer email="racarla1@inf.upv.es">Rafael Carbonell Lázaro</maintainer>
   <license>CC-BY-4.0</license>
